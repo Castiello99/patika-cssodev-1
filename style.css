@@ -1,0 +1,43 @@
+div {
+    border-bottom: black 1px solid;
+}
+a{
+    text-decoration: none;
+}
+aside{
+    float: left;
+    border-right: black 1px solid;
+    width: 25%;
+    height: 500px;
+    border-top: none;
+}
+section{
+    float: left;
+    height: 500px;
+    width: 74%;
+    margin-left: 5px;
+    
+}
+#navbar-div{
+    height: 100px;
+    text-align: center;
+    
+}
+#navbar{
+    list-style-type: none;
+    display:inline-flex;
+    font-size: 25px;
+}
+#navbar li{
+    margin-right: 15px;
+}
+#navbar-usr li{
+    margin-bottom: 2px;
+}
+#navbar-usr{
+    text-align: center;
+    list-style-type: none;
+}
+#container{
+    border-bottom: black 1px solid;
+}
